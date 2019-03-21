@@ -3,7 +3,7 @@ body {
     
 }
 
-.heading{
+.heading {
     text-align: center;
     font-family: 'roboto';
     margin-top: 0;
@@ -13,8 +13,9 @@ body {
     padding-bottom: 30px;
     display: flex;
     flex-direction: column;
-    text-align:center;
+    text-align: center;
 }
+
 ul {
     list-style-type: none;
     overflow: hidden;
@@ -37,8 +38,7 @@ ul {
    position: relative;
    text-decoration: none;
    text-transform: uppercase;
-   position: relative;
-   right: 20px;
+   margin-right: 40px;
    border: 2px solid rgb(236, 235, 235);
 }
 
@@ -51,9 +51,9 @@ ul {
 }
 
 .main-image {
+    margin-bottom: 60px;
     position: relative;
-    left: -3px;
-    top: -50px;
+    left: 30px;
 }
 
 .image, .main-image {
